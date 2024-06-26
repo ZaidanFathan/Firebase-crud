@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073131448115",
+    "project_id": "news-f0de5",
+    "storage_bucket": "news-f0de5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073131448115:android:2961b0df583f97c77e8046",
+        "android_client_info": {
+          "package_name": "id.pemrogramanmobile.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqBrgAzfJpFsbZiHy0FhLwj73md_3qnlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
